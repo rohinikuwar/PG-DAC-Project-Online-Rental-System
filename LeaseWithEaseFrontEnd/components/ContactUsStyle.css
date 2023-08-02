@@ -1,0 +1,25 @@
+.upper{
+
+    background-color: rgb(190, 111, 127);
+}
+
+.ContactUs{
+    padding-bottom: 2rem;
+    margin: 4rem 2rem;
+    margin-top: 0;
+    text-align: center;
+    background-color:  rgb(187, 139, 149);
+    color:aliceblue;
+   
+
+}
+
+.ContactUs h1{
+    font-size: 5rem;
+    
+}
+
+.ContactUs p{
+    font-size: 2rem;
+}
+

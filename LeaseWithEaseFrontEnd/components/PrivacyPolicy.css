@@ -1,0 +1,39 @@
+.upper {
+    background-color: aquamarine;
+    height: 500px;
+    width: 1210px;
+    border-radius: 20px;
+}
+
+.upper h1 {
+   
+    color: rgb(2, 15, 25);
+    padding-top: 80px;
+    padding-bottom: 100px;
+    
+
+}
+.PrivacyPolicy {
+    
+    margin-top: 100px;
+    margin-bottom: 100px;
+    padding-right: 150px;
+    padding-left: 150px;
+    font-size: 2rem;
+}
+.ReturnPolicy li {
+    text-align: start;
+    font-style: normal;
+   
+}
+.ReturnPolicy ol {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    text-align: start;
+    padding-right: 150px;
+    padding-left: 150px;
+
+
+}

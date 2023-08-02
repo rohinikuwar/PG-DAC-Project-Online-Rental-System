@@ -1,0 +1,59 @@
+.upper {
+    background-color: aquamarine;
+    height: 500px;
+    width: 1205px;
+    border-radius: 20px;
+}
+
+.upper h1 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    padding-top: 110px;
+    padding-bottom: 100px;
+    
+
+}
+
+.ShippingPolicy {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+
+}
+
+.ShippingPolicy li {
+    text-align: start;
+    font-style: normal;
+    font-size: 2rem;
+
+}
+
+.ShippingPolicy ol {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}
+
+
+
+
+.ShippingPolicy {
+    text-align: center;
+
+}
+
+.ShippingPolicy li {
+    text-align: start;
+    font-style: normal;
+
+}
+
+.ShippingPolicy ol {
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+
+}

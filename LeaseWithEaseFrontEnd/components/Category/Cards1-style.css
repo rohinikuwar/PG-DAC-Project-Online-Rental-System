@@ -1,0 +1,60 @@
+body {
+  padding: 0rem;
+  background: radial-gradient(#e5e5e5, #ffff, #e5e5e5);
+}
+
+.card1 {
+ 
+  padding-top:1rem;
+  width: 150px;
+  height: 19rem;
+}
+
+.card1:hover {
+  box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253) !important;
+  ;
+}
+ 
+ .col-md-11{
+font-size:13px;
+padding: 0%;
+
+border-radius: 20px;
+width: 150px;
+}
+
+.col-md-12{
+  font-size:13px;
+  
+
+  width: 150px;
+  }
+
+  .col-md-13{
+    font-size:13px;
+  padding-left: 15px;
+    
+    width: 150px;
+    }
+    .col-md-14{
+      font-size:13px;
+      padding-right: 2px;
+      padding-left: 20px;
+     
+      width: 150px;
+      }
+      
+      .col-md-15{
+        font-size:13px;
+        padding-right: 2px;
+        padding-left: 25px;
+       
+        width: 150px;
+        }
+        .col-md-16{
+          font-size:13px;
+          padding-right: 2px;
+          padding-left: 30px;
+         
+          width: 150px;
+          }    

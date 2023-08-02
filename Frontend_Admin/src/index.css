@@ -1,0 +1,279 @@
+.trigger {
+  padding: 0 24px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: color 0.3s;
+  
+}
+
+.trigger:hover {
+  color: rgb(180 134 134);;
+}
+.ant-Layout-Content{
+    margin: 24px 16px;
+    padding: 24px;
+    min-height: 100vh;
+    background: rgb(255, 255, 255);
+}
+.logo {
+  height: 32px;
+  margin: 16px;
+  background: rgba(255, 255, 255, 0.3);
+}
+.ant-Layout{
+  min-height: 100vh;
+
+}
+.ant-Layout-Sider{
+  flex: 0 0 250px !important;
+  max-width: 250px !important;
+  min-width: 250px !important;
+  width: 250px !important;
+  background-color: blueviolet !important;
+  
+} 
+main{
+  overflow-y:scroll;
+  background-color: transparent !important;
+  height: 85vh;
+}
+.logo{
+  background-color: rgb(180 134 134);
+  margin: 0;
+  height: 64px;
+
+}
+.green{
+  color: green;
+}
+.red{
+  color: red;
+}
+
+.ant-Layout-title-content{
+  font-size: 16px;
+}
+.ant-Layout-header{
+  background-color: rgb(180 134 134);
+  line-height: 0px;
+}
+.ant-Layout-header h5{
+line-height: 20px;
+font-size: 14;
+}
+.ant-Layout-header p{
+  line-height: 20px;
+  font-size: 13px;
+}
+.ant-Layout-Content{
+  line-height: 0px;
+}
+.transporterList{
+  display: flex ;
+  align-items: center;
+}
+.transporterEdit{
+  border:none;
+  border-radius: 10px;
+  padding:5px 10px;
+  background-color:rgb(180 134 134);
+  cursor: pointer;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 45px;
+  align-items: center;
+  width: 50px;
+  color: white;
+  font-size: 16px;
+}
+.transporterDelete{
+  color: red;
+  cursor: pointer;
+  width: 30px;
+  height: 20px;
+}
+.transporters{
+  flex: 4;
+  padding: 20px;
+}
+.transporterTitleContainer{
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.transporterAddButton{
+  width: 80px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(180 134 134);
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+  font-size: 16px;
+}
+.transporterContainer{
+  display:flex;
+  margin: 20px;
+}
+.transporterShow{
+  flex:1;
+  padding: 20px;
+}
+.transporterUpdate{
+  flex:2;
+  padding: 20px;
+  margin-left: 20px;
+} 
+.transporterAdd{
+  width: 180px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(180 134 134);
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+  font-size: 16px;
+  height: 60px;
+  margin-top: 20px;
+}
+.btn{
+  background-color:  rgb(180 134 134);
+  cursor: pointer;
+}
+.productList{
+  display: flex ;
+  align-items: center;
+}
+.productEdit{
+  border:none;
+  border-radius: 10px;
+  padding:5px 10px;
+  background-color:rgb(180 134 134);
+  cursor: pointer;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 45px;
+  align-items: center;
+  width: 50px;
+  color: white;
+  font-size: 16px;
+}
+.productDelete{
+  color: red;
+  cursor: pointer;
+  width: 30px;
+  height: 20px;
+}
+.products{
+  flex: 4;
+  padding: 20px;
+}
+.productAdd{
+  width: 130px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(180 134 134);
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+  font-size: 16px;
+  height: 50px;
+  margin-top: 20px;
+}
+.categoryList{
+  display: flex ;
+  align-items: center;
+}
+.categoryEdit{
+  border:none;
+  border-radius: 10px;
+  padding:5px 10px;
+  background-color:rgb(180 134 134);
+  cursor: pointer;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 45px;
+  align-items: center;
+  width: 50px;
+  color: white;
+  font-size: 16px;
+}
+.categoryDelete{
+  color: red;
+  cursor: pointer;
+  width: 30px;
+  height: 20px;
+}
+.category{
+  flex: 4;
+  padding: 20px;
+}
+.categoryAdd{
+  width: 130px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(180 134 134);
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+  font-size: 16px;
+  height: 50px;
+  margin-top: 20px;
+}
+.subcategoryList{
+  display: flex ;
+  align-items: center;
+}
+.subcategoryEdit{
+  border:none;
+  border-radius: 10px;
+  padding:5px 10px;
+  background-color:rgb(180 134 134);
+  cursor: pointer;
+  margin-right: 20px;
+  margin-top: 10px;
+  height: 45px;
+  align-items: center;
+  width: 50px;
+  color: white;
+  font-size: 16px;
+}
+.subcategoryDelete{
+  color: red;
+  cursor: pointer;
+  width: 30px;
+  height: 20px;
+}
+.subcategory{
+  flex: 4;
+  padding: 20px;
+}
+.subcategoryAdd{
+  width: 160px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(180 134 134);
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+  font-size: 16px;
+  height: 50px;
+  margin-top: 20px;
+}
+.submit{
+  width: 120px;
+  border: none;
+  padding: 5px;
+  background-color: rgb(180 134 134);
+  border-radius: 5px;
+  cursor: pointer;
+  color:white;
+  font-size: 16px;
+  height: 40px;
+  margin-top: 20px;
+}
+:where(.css-dev-only-do-not-override-10ed4xt).ant-layout-header {
+  line-height: 20px;
+  background-color: rgb(180 134 134);
+  color: rgb(180 134 134);
+}
